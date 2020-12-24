@@ -1,6 +1,7 @@
 ### Hi there I am Kshithija Dilhani 👋
 
-Final Year Computer Engineering Undergraduate
+Final Year Computer Engineering Undergraduate from Faculty of Engineering, University of Peradeniya 
+
 
 - 🔭 I’m currently working on my final year research project
 - 🌱 I’m currently learning on machine learning for keyword extraction 
